@@ -1,2 +1,2 @@
-# StackTeckEducationCenter
-Education Center For StackTeck
+# EducationCenter
+Education Center
